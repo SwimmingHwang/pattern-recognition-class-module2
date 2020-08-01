@@ -18,4 +18,4 @@
 - 주파수 
 
 # 분석 과정
-[최종ppt.pdf](https://github.com/SwimmingHwang/pattern-recognition-class-module2/최종ppt.pdf) 참고
+[최종ppt.pdf](최종ppt.pdf) 참고
